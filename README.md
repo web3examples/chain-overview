@@ -14,6 +14,18 @@ overview of the different chains &amp; cross chain communication
 | 2nd: Side chains     |
 | 2nd: Sharding        |
 
+Others
+[eos]
+[cardano]
+[hyperledger]
+[IOTA]
+[quorum]
+[ripple]
+[litecoin]
+[tron]
+[neo]
+[stellar]
+
 
 
 [bitcoin]:     https://bitcoin.org
@@ -25,3 +37,17 @@ overview of the different chains &amp; cross chain communication
 [lightning]:    https://lightning.network/
 [raiden]:       https://raiden.network/
 [dfinity]:      https://dfinity.org/
+
+
+
+[eos]:          https://eos.io
+[cardano]:      https://www.cardano.org/en/home/
+[hyperledger]:  https://www.hyperledger.org
+[IOTA]:         https://www.iota.org
+[quorum]:       https://www.goquorum.com
+[ripple]:       https://ripple.com
+[litecoin]:     https://litecoin.org/nl/
+[tron]:         https://tron.network
+[neo]:          https://www.neonetworkexchange.com/landing_page/landing?destination=home
+[stellar]:      https://www.stellar.org
+	
