@@ -1,3 +1,9 @@
+# Ecosystem
+
+The web3 ecosystem consists of several building blocks.
+One of them is [ethereum]
+
+
 # chain-overview
 overview of the different chains &amp; cross chain communication
 
