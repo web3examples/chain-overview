@@ -8,29 +8,22 @@ One of them is [ethereum](../../../ethereum/)<br/>
 overview of the different chains &amp; cross chain communication
 
 
-| Blockchains          | Generation 1      | Generation 2      | Generation 3   | 
-| -------------        |  ---------        | ---------         | ---------      |
-| 1st layer            | [bitcoin]         | [ethereum]        | [ethereum 2.0]<br>[dfinity] |
-| 1st layer - forks    |                   | [ethereumclassic] |
-| 1st: Privacy         |
-| 1st: Permissioned    |
-| 1st: As a service    |
-| Cross chain          |                   | [wanchain]   | [polkadot]   |
-| 2nd: Payment channel | [lightning]       | [raiden]
-| 2nd: Side chains     |
-| 2nd: Sharding        |
+| Blockchains                 | Generation 1            | Generation 2                          | Generation 3   | 
+| -------------               |  ---------              | ---------                             | ---------      |
+| 1st layer (POW)             | [bitcoin]<br>[litecoin] | [ethereum]<br>[IOTA]                  | [zilliqa]
+| 1st layer - forks           |                         | [ethereumclassic]                     |
+| 1st: Privacy                |                         |                                       |
+| 1st: Permissioned           |                         | [hyperledger]<br>[quorum]<br>[ripple] |
+| 1st: As a service           |                         |                                       |
+| 1st: POA (more centralized) |                         | [stellar]                             |
+| 1st: POS                    |                         | [neo]<br>[vechain]<br>[lisk]          | [dfinity]<br>[arcblock]<br>[komodo]<br>[cardano]
+| 1st: DPOS                   |                         | [tron]                                | [eos]
+| 1st: hybrid POW/POS         |                         |                                       | [ethereum 2.0]<br>[aion]
+| Cross chain                 |                         | [wanchain]                            | [polkadot]
+| 2nd: Payment channel        | [lightning]             | [raiden]
+| 2nd: Side chains            |
+| 2nd: Sharding               |
 
-Others
-[eos]
-[cardano]
-[hyperledger]
-[IOTA]
-[quorum]
-[ripple]
-[litecoin]
-[tron]
-[neo]
-[stellar]
 
 
 
@@ -56,4 +49,9 @@ Others
 [tron]:         https://tron.network
 [neo]:          https://www.neonetworkexchange.com/landing_page/landing?destination=home
 [stellar]:      https://www.stellar.org
-	
+[zilliqa]:      https://zilliqa.com
+[arcblock]:     https://www.arcblock.io
+[aion]:         https://aion.network
+[vechain]:      https://www.vechain.org
+[lisk]:         https://lisk.io
+[komodo]:       https://komodoplatform.com
