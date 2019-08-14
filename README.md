@@ -4,6 +4,51 @@ The web3 ecosystem consists of several building blocks.
 One of them is [ethereum](../../../ethereum/)<br/>
 
 
+
+# eocystem overview
+Lists of projects in the blockchain / web3 space
+
+| List                 |
+|-----------------------
+| [outlier-ecosystem]
+| [ibm-ecosystem]
+
+[outlier-ecosystem]: https://outlierventures.io/trackers/#ecosystem
+[ibm-ecosystem]:    https://www.ibm.com/blockchain/ecosystem
+
+# investors in the ecosystem
+
+| Investor                  | More info |
+| -----                     |
+| [web3.foundation]
+| [ethereum-foundation]     | [ethhub]
+| [outlierventures]
+| [panteracapital]
+| [kryptonite1]
+| [a16z]
+| [boost.vc]
+| [blockchain.capital]
+| [theblockcrypto-overview] 
+| [block123-top100]
+| [fundlist]
+| [top-investors]
+
+[web3.foundation]:          https://web3.foundation/
+
+[ethereum-foundation]:      https://ethereum.org/
+[ethhub]:                   https://docs.ethhub.io/ethereum-basics/ethereum-foundation/
+[theblockcrypto-overview]:  https://www.theblockcrypto.com/2019/04/01/mapping-out-the-investors-in-the-crypto-ecosystem/
+[outlierventures]:          https://outlierventures.io
+[panteracapital]:           https://www.panteracapital.com
+[kryptonite1]:              https://www.kryptonite1.co/
+[a16z]:                     https://a16z.com
+[boost.vc]:                 https://www.boost.vc
+[blockchain.capital]:       https://blockchain.capital/portfolio/
+[block123-top100]:          https://www.block123.com/en/feature/top100-crypto-venture-capital-firms
+[fundlist]:                 https://hackernoon.com/ultimate-list-of-crypto-investment-funds-3f422af0449b
+[top-investors]:            https://101blockchains.com/top-blockchain-investors/
+
+
 # chain-overview
 overview of the different chains &amp; cross chain communication
 
@@ -21,7 +66,7 @@ overview of the different chains &amp; cross chain communication
 | 1st: hybrid POW/POS         |                         |                                       | [ethereum 2.0]<br>[aion]
 | Cross chain                 |                         | [wanchain]                            | [polkadot]
 | 2nd: Payment channel        | [lightning]             | [raiden]
-| 2nd: Side chains            |
+| 2nd: Side chains            |                         | [skalelabs]
 | 2nd: Sharding               |
 
 
@@ -55,3 +100,117 @@ overview of the different chains &amp; cross chain communication
 [vechain]:      https://www.vechain.org
 [lisk]:         https://lisk.io
 [komodo]:       https://komodoplatform.com
+[skalelabs]:    https://skalelabs.com/
+
+
+# jobs
+
+## dutch jobs
+| Consultancy  | Companies  | Jobs sites (general)      | Job sites (specific)  | Academic
+| ------------ | ---------- | ------------------------- | --------------------- | --------
+| [axveco]     | [rabobank] | [linkedin]                | [blockchain-vacature] | [academictransfer]
+| [horizon]    | [ing]      | [indeed]                  | [blockchainvacatures]
+| [upperclub]  | [abnamro]  | [glassdoor]               | [codeguild]
+| [weconomics] |            | [adzuna]                  | [blocktribe]
+| [xurux]      |            | [vacat]
+|              |            | [vacatures]
+|              |            | [nationalevacaturebank]
+|              |            | [simplyhired]
+|              |            | [recruit]
+|              |            | [trovit]
+
+[axveco]:       https://axveco.com
+[horizon]:      http://www.horizon.red
+[upperclub]:    https://upperclub.eu
+[weconomics]:   https://weconomics.org
+[xurux]:        https://xurux.nl
+
+[rabobank]:         https://rabobank.jobs/nl/vacatures/?q=blockchain
+[ing]:              https://www.ing.jobs/Nederland/Vacatures.htm?keyword=blockchain
+[abnamro]:          https://www.abnamro.com/nl/carriere/vacatures/index.html?keywords=blockchain
+
+[indeed]:                https://www.indeed.nl/Blockchain-vacatures
+[vacat]:                 https://www.vacat.nl/?vacatures=blockchain
+[linkedin]:              https://www.linkedin.com/jobs/search/?keywords=blockchain
+[glassdoor]:             https://www.glassdoor.nl/Vacature/blockchain-vacatures-SRCH_KE0,10.htm
+[adzuna]:                https://www.adzuna.nl/search?q=Blockchain
+[vacatures]:             https://www.vacatures.nl/overzicht/?query=blockchain
+[nationalevacaturebank]: https://www.nationalevacaturebank.nl/vacature/zoeken?query=blockchain
+[simplyhired]:           https://www.simplyhired.nl/search?q=blockchain
+[recruit]:               https://nl.recruit.net/search.html?query=blockchain
+[trovit]:                https://vacatures.trovit.nl/index.php/cod.search_jobs/type.0/what_d.blockchain/
+
+[blockchain-vacature]:   https://www.blockchain-vacature.nl/
+[blockchainvacatures]:   https://blockchainvacatures.nl/jobs/
+[codeguild]:             https://www.codeguild.nl/?s=blockchain
+[blocktribe]:            https://blocktribe.com/jobs/?&Location_Country[multi_like_and][]=Netherlands
+
+[academictransfer]:      https://www.academictransfer.com/en/?q=blockchain
+
+## international jobs
+
+| Company    |Job sites (general) | Job site (specific) | Social media sites | Freelancer  
+| --------   | ------------------- | ------------------ | ----------- 
+|[consensys] | [monday-vc]         | [boost-vc]          | [reddit]           | [upwork] 
+|            | [angel.co]          | [crypto_jobs]       | [dod-github]
+|            | [smartrecruiters]   | [plexusrs]
+|            |                     | [cointelegraph]
+|            |                     | [blockchaindevjobs]
+|            |                     | [blockchainjobboard]
+|            |                     | [cryptojobslist]
+|            |                     | [workonblockchain]
+
+[consensys]:           https://consensys.net/open-roles
+
+[monday-vc]:           https://www.monday.vc/jobs
+[smartrecruiters]:     https://jobs.smartrecruiters.com/?keyword=blockchain
+[angel.co]:            https://angel.co/ethereum/jobs
+
+[boost-vc]:            https://angel.co/boost-vc/jobs-at-portfolio-companies
+[crypto_jobs]:         https://crypto.jobs/
+[plexusrs]:            https://www.plexusrs.com/
+[cointelegraph]:       https://jobs.cointelegraph.com/
+[blockchaindevjobs]:   https://blockchaindevjobs.com/
+[blockchainjobboard]:  http://www.blockchainjobboard.org
+[cryptojobslist]:      https://cryptojobslist.com
+[workonblockchain]:    https://workonblockchain.com/
+
+[reddit]:              https://www.reddit.com/r/ethdev/comments/abg8pk/whos_hiring_and_whos_for_hire_megathread_2019/
+[dod-github]:          https://github.com/Department-of-Decentralization/Ecosystem-Job-Openings
+
+[upwork]:              https://www.upwork.com/o/jobs/browse/skill/blockchain/
+
+
+## tasks
+
+| Small projects | Bounties            | Bug bounties         | Airdrops       |  Generalized mining
+| ---------------| ----------          | ---------------------| ---------      | ---------
+| [blocklancer]  | [gitcoin]           | [bounty.ethereum]    | [airdropalert]
+|                | [bounties.network]  | [thehydra]           | [icodrops]
+|                | [aion]              | [bug_bounty_list]    | [bountiesalert]
+|                | [bountyhub]         | [hackerone]
+|                | [bounty0x]
+|                | [fundrequest]
+|                | [bountyone]
+|                | [bountyhive]
+
+[blocklancer]:      https://blocklancer.net/
+
+[gitcoin]:          https://gitcoin.co/
+[bounties.network]: https://explorer.bounties.network/explorer
+[aion]:             https://aion.network/bounty/
+[bountyhub]:        http://bountyhub.io
+[bounty0x]:         https://bounty0x.io/
+[fundrequest]:      https://fundrequest.io
+[bountyone]:        http://bountyone.io/
+[bountyhive]:       https://bountyhive.io
+
+
+[bounty.ethereum]:  https://bounty.ethereum.org/
+[thehydra]:         https://thehydra.io/
+[bug_bounty_list]:  https://consensys.github.io/smart-contract-best-practices/bug_bounty_list/
+[hackerone]:        https://hackerone.com
+
+[airdropalert]:     https://airdropalert.com/
+[icodrops]:         https://icodrops.com/
+[bountiesalert]:    https://bountiesalert.com
