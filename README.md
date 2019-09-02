@@ -3,7 +3,9 @@
 The Web3 ecosystem consists of several building blocks.
 One of them is [ethereum](../../../ethereum/)<br/>
 
+This document contains info about:
 
+- [Dutch jobs](#Dutch-jobs)
 
 
 # Dashboards and project overview
@@ -57,7 +59,7 @@ Lists of projects in the blockchain / web3 space
 [top-investors]:            https://101blockchains.com/top-blockchain-investors/
 
 
-# chain-overview
+# Chain overview
 overview of the different chains &amp; cross chain communication
 
 
