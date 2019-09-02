@@ -1,6 +1,6 @@
-# Ecosystem
+# Web3 Ecosystem
 
-The web3 ecosystem consists of several building blocks.
+The Web3 ecosystem consists of several building blocks.
 One of them is [ethereum](../../../ethereum/)<br/>
 
 
@@ -30,10 +30,10 @@ Lists of projects in the blockchain / web3 space
 
 # Investors in the ecosystem
 
-| Overview | Investor                  | More info |
+| Overview                   | Investor            
 | -----                      | ----
 | [theblockcrypto-overview]  | [web3.foundation]
-| [block123-top100]          | [ethereum-foundation]     | [ethhub]
+| [block123-top100]          | [ethereum-foundation]<br>[ethhub]
 | [fundlist]                 | [outlierventures]
 | [top-investors]            | [panteracapital]
 |                            | [kryptonite1]
