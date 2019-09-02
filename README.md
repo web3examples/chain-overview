@@ -33,9 +33,6 @@ Lists of projects in the blockchain / web3 space
 [coinmarketcap]:     https://coinmarketcap.com/
 [coingecko]:         https://www.coingecko.com/en
 
-
-
-
 # Investors in the ecosystem
 
 | Overview                   | Investor            
@@ -66,7 +63,7 @@ Lists of projects in the blockchain / web3 space
 
 
 # Chain overview
-overview of the different chains &amp; cross chain communication
+Overview of the different chains and cross chain communication
 
 
 | Blockchains                 | Generation 1            | Generation 2                          | Generation 3   | 
@@ -84,9 +81,6 @@ overview of the different chains &amp; cross chain communication
 | 2nd: Payment channel        | [lightning]             | [raiden]
 | 2nd: Side chains            |                         | [skalelabs]
 | 2nd: Sharding               |
-
-
-
 
 [bitcoin]:     https://bitcoin.org
 [ethereum]:    https://ethereum.org
@@ -117,8 +111,6 @@ overview of the different chains &amp; cross chain communication
 [lisk]:         https://lisk.io
 [komodo]:       https://komodoplatform.com
 [skalelabs]:    https://skalelabs.com/
-
-
 
 # Jobs
 
