@@ -4,18 +4,18 @@ The Web3 ecosystem consists of several building blocks.
 One of them is [ethereum](../../../ethereum/)<br/>
 
 This document contains info about:
-* [Dashboards-and-project_overview](#Dashboards-and-project_overview)
-* [Investors in the ecosystem](#Investors in the ecosystem)
-* [Chain overview](#Chain overview)
-* [Jobs](#Jobs)
- * [Dutch jobs](#Dutch-jobs)
- * [International jobs](#International jobs)
- * [Tasks](#Tasks)
-* [Background information](#Background information)
-* [Standardisation](#Standardisation)
-* [Government stimulation](#Government stimulation)
+* [Dashboards-and-project-overview](#dashboards-and-project-overview)
+* [Investors in the ecosystem](#investors in the ecosystem)
+* [Chain overview](#chain-overview)
+* [Jobs](#jobs)
+ * [Dutch jobs](#dutch-jobs)
+ * [International jobs](#international-jobs)
+ * [Tasks](#tasks)
+* [Background information](#background-information)
+* [Standardisation](#standardisation)
+* [Government stimulation](#government-stimulation)
 
-# Dashboards-and-project_overview
+# Dashboards-and-project-overview
 Lists of projects in the blockchain / web3 space
 
 | Project list        | Token dashboard |
