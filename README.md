@@ -1,7 +1,7 @@
 # Web3 Ecosystem
 
 The Web3 ecosystem consists of several building blocks.
-One of them is [ethereum](../../../ethereum/)<br/>
+* [web3examples](..)
 
 This document contains info about:
 * [Dashboards and project overview](#dashboards-and-project-overview)
