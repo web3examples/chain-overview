@@ -1,4 +1,4 @@
-# Web3 Ecosystem
+# Web3-Ecosystem
 
 The Web3 ecosystem consists of several building blocks.
 One of them is [ethereum](../../../ethereum/)<br/>
@@ -37,7 +37,7 @@ Lists of projects in the blockchain / web3 space
 
 
 
-# Investors in the ecosystem
+# Investors-in-the-ecosystem
 
 | Overview                   | Investor            
 | -----                      | ----
@@ -123,7 +123,9 @@ overview of the different chains &amp; cross chain communication
 
 # Jobs
 
-## Dutch jobs
+
+## Dutch-jobs
+
 | Consultancy  | Companies  | Jobs sites (general)      | Job sites (specific)  | Academic
 | ------------ | ---------- | ------------------------- | --------------------- | --------
 | [axveco]     | [rabobank] | [linkedin]                | [blockchain-vacature] | [academictransfer]
