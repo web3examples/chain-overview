@@ -1,7 +1,6 @@
 # Web3 Ecosystem
 
-The Web3 ecosystem consists of several building blocks.
-* [web3examples](..)
+The Web3 ecosystem consists of several building blocks. ([Home](..))
 
 This document contains info about:
 * [Dashboards and project overview](#dashboards-and-project-overview)
