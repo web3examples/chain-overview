@@ -1,21 +1,21 @@
-# Web3-Ecosystem
+# Web3 Ecosystem
 
 The Web3 ecosystem consists of several building blocks.
 One of them is [ethereum](../../../ethereum/)<br/>
 
 This document contains info about:
-* [Dashboards-and-project-overview](#dashboards-and-project-overview)
+* [Dashboards and project overview](#dashboards-and-project-overview)
 * [Investors in the ecosystem](#investors-in-the-ecosystem)
 * [Chain overview](#chain-overview)
 * [Jobs](#jobs)
-  * [Dutch jobs](#dutch-jobs)
-  * [International jobs](#international-jobs)
-  * [Tasks](#tasks)
+   * [Dutch jobs](#dutch-jobs)
+   * [International jobs](#international-jobs)
+   * [Tasks](#tasks)
 * [Background information](#background-information)
 * [Standardisation](#standardisation)
 * [Government stimulation](#government-stimulation)
 
-# Dashboards-and-project-overview
+# Dashboards and project overview
 Lists of projects in the blockchain / web3 space
 
 | Project list        | Token dashboard |
@@ -37,7 +37,7 @@ Lists of projects in the blockchain / web3 space
 
 
 
-# Investors-in-the-ecosystem
+# Investors in the ecosystem
 
 | Overview                   | Investor            
 | -----                      | ----
@@ -124,7 +124,7 @@ overview of the different chains &amp; cross chain communication
 # Jobs
 
 
-## Dutch-jobs
+## Dutch jobs
 
 | Consultancy  | Companies  | Jobs sites (general)      | Job sites (specific)  | Academic
 | ------------ | ---------- | ------------------------- | --------------------- | --------
