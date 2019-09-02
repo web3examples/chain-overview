@@ -4,11 +4,18 @@ The Web3 ecosystem consists of several building blocks.
 One of them is [ethereum](../../../ethereum/)<br/>
 
 This document contains info about:
+- [Dashboards-and-project_overview]
+- [Investors in the ecosystem]
+- [Chain overview]
+- [Jobs]
+-- [Dutch jobs](#Dutch-jobs)
+-- [International jobs]
+-- [Tasks]
+- [Background information]
+- [Standardisation]
+- [Government stimulation]
 
-- [Dutch jobs](#Dutch-jobs)
-
-
-# Dashboards and project overview
+# Dashboards-and-project_overview
 Lists of projects in the blockchain / web3 space
 
 | Project list        | Token dashboard |
@@ -114,9 +121,9 @@ overview of the different chains &amp; cross chain communication
 
 
 
-# jobs
+# Jobs
 
-## dutch jobs
+## Dutch jobs
 | Consultancy  | Companies  | Jobs sites (general)      | Job sites (specific)  | Academic
 | ------------ | ---------- | ------------------------- | --------------------- | --------
 | [axveco]     | [rabobank] | [linkedin]                | [blockchain-vacature] | [academictransfer]
@@ -158,7 +165,7 @@ overview of the different chains &amp; cross chain communication
 
 [academictransfer]:      https://www.academictransfer.com/en/?q=blockchain
 
-## international jobs
+## International jobs
 
 | Company    |Job sites (general) | Job site (specific) | Social media sites | Freelancer  
 | --------   | ------------------- | ------------------ | ----------- 
@@ -192,7 +199,7 @@ overview of the different chains &amp; cross chain communication
 [upwork]:              https://www.upwork.com/o/jobs/browse/skill/blockchain/
 
 
-## tasks
+## Tasks
 
 | Small projects | Bounties            | Bug bounties         | Airdrops       |  Generalized mining
 | ---------------| ----------          | ---------------------| ---------      | ---------
@@ -227,7 +234,7 @@ overview of the different chains &amp; cross chain communication
 [bountiesalert]:    https://bountiesalert.com
 
 
-## background information
+# Background information
 
 | Journals
 | -----
@@ -236,7 +243,7 @@ overview of the different chains &amp; cross chain communication
 [jbba]: https://jbba.scholasticahq.com/ 
 
 
-## standardisation
+# Standardisation
 
 | Standardisation
 | -----
@@ -255,7 +262,7 @@ overview of the different chains &amp; cross chain communication
 [opengeospacial]:   http://www.opengeospatial.org/projects/groups/bdltdwg
 
 
-## government stimulation
+## Government stimulation
 
 | Stimulations
 | -----------
