@@ -5,33 +5,41 @@ One of them is [ethereum](../../../ethereum/)<br/>
 
 
 
-# eocystem overview
+
+# Dashboards and project overview
 Lists of projects in the blockchain / web3 space
 
-| List                 |
-|-----------------------
-| [outlier-ecosystem]
-| [ibm-ecosystem]
+| Project list        | Token dashboard |
+| ---------           |  --------
+| [outlier-ecosystem] | [cryptorank]
+| [xangle]            | [coinmarketcap]
+| [ibm-ecosystem]     | [coingecko]
+| [blockdata]         |
 
+[xangle]:            https://xangle.io/
 [outlier-ecosystem]: https://outlierventures.io/trackers/#ecosystem
-[ibm-ecosystem]:    https://www.ibm.com/blockchain/ecosystem
+[ibm-ecosystem]:     https://www.ibm.com/blockchain/ecosystem
+[blockdata]:         https://app.blockdata.tech/projects
 
-# investors in the ecosystem
+[cryptorank]:        https://cryptorank.io/
+[coinmarketcap]:     https://coinmarketcap.com/
+[coingecko]:         https://www.coingecko.com/en
 
-| Investor                  | More info |
-| -----                     |
-| [web3.foundation]
-| [ethereum-foundation]     | [ethhub]
-| [outlierventures]
-| [panteracapital]
-| [kryptonite1]
-| [a16z]
-| [boost.vc]
-| [blockchain.capital]
-| [theblockcrypto-overview] 
-| [block123-top100]
-| [fundlist]
-| [top-investors]
+
+
+
+# Investors in the ecosystem
+
+| Overview | Investor                  | More info |
+| -----                      | ----
+| [theblockcrypto-overview]  | [web3.foundation]
+| [block123-top100]          | [ethereum-foundation]     | [ethhub]
+| [fundlist]                 | [outlierventures]
+| [top-investors]            | [panteracapital]
+|                            | [kryptonite1]
+|                            | [a16z]
+|                            | [boost.vc]
+|                            | [blockchain.capital]
 
 [web3.foundation]:          https://web3.foundation/
 
@@ -58,7 +66,7 @@ overview of the different chains &amp; cross chain communication
 | 1st layer (POW)             | [bitcoin]<br>[litecoin] | [ethereum]<br>[IOTA]                  | [zilliqa]
 | 1st layer - forks           |                         | [ethereumclassic]                     |
 | 1st: Privacy                |                         |                                       |
-| 1st: Permissioned           |                         | [hyperledger]<br>[quorum]<br>[ripple] |
+| 1st: Permissioned           |                         | [enterprise_ethereum]<br>[hyperledger]<br>[quorum]<br>[ripple] |
 | 1st: As a service           |                         |                                       |
 | 1st: POA (more centralized) |                         | [stellar]                             |
 | 1st: POS                    |                         | [neo]<br>[vechain]<br>[lisk]          | [dfinity]<br>[arcblock]<br>[komodo]<br>[cardano]
@@ -82,7 +90,7 @@ overview of the different chains &amp; cross chain communication
 [raiden]:       https://raiden.network/
 [dfinity]:      https://dfinity.org/
 
-
+[enterprise_ethereum]: https://entethalliance.org
 
 [eos]:          https://eos.io
 [cardano]:      https://www.cardano.org/en/home/
@@ -101,6 +109,7 @@ overview of the different chains &amp; cross chain communication
 [lisk]:         https://lisk.io
 [komodo]:       https://komodoplatform.com
 [skalelabs]:    https://skalelabs.com/
+
 
 
 # jobs
@@ -214,3 +223,42 @@ overview of the different chains &amp; cross chain communication
 [airdropalert]:     https://airdropalert.com/
 [icodrops]:         https://icodrops.com/
 [bountiesalert]:    https://bountiesalert.com
+
+
+## background information
+
+| Journals
+| -----
+| [jbba]
+
+[jbba]: https://jbba.scholasticahq.com/ 
+
+
+## standardisation
+
+| Standardisation
+| -----
+| [overview]
+| [ISO_TC307]
+| [itu_FG_DLT]
+| [ieee]
+| [w3c]
+| [opengeospacial]
+
+[overview]:     https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/blockchain-and-distributed-digital-ledger-technologies
+[ISO_TC307]:    https://www.iso.org/committee/6266604.html
+[itu_FG_DLT]:   https://www.itu.int/en/ITU-T/focusgroups/dlt
+[ieee]:         https://blockchain.ieee.org/
+[w3c]:          https://w3c.github.io/web-ledger/
+[opengeospacial]:   http://www.opengeospatial.org/projects/groups/bdltdwg
+
+
+## government stimulation
+
+| Stimulations
+| -----------
+| [eu_single_market]
+| [eublockchainforum]
+
+[eu_single_market]:     https://ec.europa.eu/digital-single-market/en/blockchain-technologies
+[eublockchainforum]:    https://www.eublockchainforum.eu/
