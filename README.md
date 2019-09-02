@@ -5,12 +5,12 @@ One of them is [ethereum](../../../ethereum/)<br/>
 
 This document contains info about:
 * [Dashboards-and-project-overview](#dashboards-and-project-overview)
-* [Investors in the ecosystem](#investors in the ecosystem)
+* [Investors in the ecosystem](#investors-in-the-ecosystem)
 * [Chain overview](#chain-overview)
 * [Jobs](#jobs)
- * [Dutch jobs](#dutch-jobs)
- * [International jobs](#international-jobs)
- * [Tasks](#tasks)
+  * [Dutch jobs](#dutch-jobs)
+  * [International jobs](#international-jobs)
+  * [Tasks](#tasks)
 * [Background information](#background-information)
 * [Standardisation](#standardisation)
 * [Government stimulation](#government-stimulation)
