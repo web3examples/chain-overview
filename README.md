@@ -3,35 +3,19 @@
 The Web3 ecosystem consists of several building blocks. ([Home](..))
 
 This document contains info about:
-* [Dashboards and project overview](#dashboards-and-project-overview)
-* [Investors in the ecosystem](#investors-in-the-ecosystem)
-* [Chain overview](#chain-overview)
-* [Jobs](#jobs)
-   * [Dutch jobs](#dutch-jobs)
-   * [International jobs](#international-jobs)
-   * [Tasks](#tasks)
-* [Background information](#background-information)
-* [Standardisation](#standardisation)
-* [Government stimulation](#government-stimulation)
+- [Web3 Ecosystem](#web3-ecosystem)
+- [Investors in the ecosystem](#investors-in-the-ecosystem)
+- [Chain overview](#chain-overview)
+- [Projects](#projects)
+- [Applications](#applications)
+- [Jobs](#jobs)
+  - [Dutch jobs](#dutch-jobs)
+  - [International jobs](#international-jobs)
+  - [Tasks](#tasks)
+- [Background information](#background-information)
+- [Standardisation](#standardisation)
+  - [Government stimulation](#government-stimulation)
 
-# Dashboards and project overview
-Lists of projects in the blockchain / web3 space
-
-| Project list        | Token dashboard |
-| ---------           |  --------
-| [outlier-ecosystem] | [cryptorank]
-| [xangle]            | [coinmarketcap]
-| [ibm-ecosystem]     | [coingecko]
-| [blockdata]         |
-
-[xangle]:            https://xangle.io/
-[outlier-ecosystem]: https://outlierventures.io/trackers/#ecosystem
-[ibm-ecosystem]:     https://www.ibm.com/blockchain/ecosystem
-[blockdata]:         https://app.blockdata.tech/projects
-
-[cryptorank]:        https://cryptorank.io/
-[coinmarketcap]:     https://coinmarketcap.com/
-[coingecko]:         https://www.coingecko.com/en
 
 # Investors in the ecosystem
 
@@ -111,6 +95,41 @@ Overview of the different chains and cross chain communication
 [lisk]:         https://lisk.io
 [komodo]:       https://komodoplatform.com
 [skalelabs]:    https://skalelabs.com/
+
+# Projects
+Lists of projects in the blockchain / web3 space
+
+| Project list        | Token dashboard |
+| ---------           |  --------
+| [outlier-ecosystem] | [cryptorank]
+| [xangle]            | [coinmarketcap]
+| [ibm-ecosystem]     | [coingecko]
+| [blockdata]         |
+| [etnw_projects]     |
+
+[xangle]:            https://xangle.io/
+[outlier-ecosystem]: https://outlierventures.io/trackers/#ecosystem
+[ibm-ecosystem]:     https://www.ibm.com/blockchain/ecosystem
+[blockdata]:         https://app.blockdata.tech/projects
+[etnw_projects]:        https://ethereum.network/projects
+
+[cryptorank]:        https://cryptorank.io/
+[coinmarketcap]:     https://coinmarketcap.com/
+[coingecko]:         https://www.coingecko.com/en
+
+
+
+# Applications
+
+| Application overview (multichain)
+| --------------
+| [mathdapp]
+| [dappreview]
+| [dappcom]
+
+[mathdapp]:    https://mathdapp.store/
+[dappreview]:  https://dapp.review/explore
+[dappcom]:     https://www.dapp.com/search
 
 # Jobs
 
