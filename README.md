@@ -99,25 +99,33 @@ Overview of the different chains and cross chain communication
 # Projects
 Lists of projects in the blockchain / web3 space
 
-| Project list        | Token dashboard |
-| ---------           |  --------
-| [outlier-ecosystem] | [cryptorank]
-| [xangle]            | [coinmarketcap]
-| [ibm-ecosystem]     | [coingecko]
-| [blockdata]         |
-| [etnw_projects]     |
+| Project list          | Token dashboard | Projects
+| ---------             |  --------       | -----------  
+| [outlier-ecosystem]   | [cryptorank]    | [immutability]
+| [xangle]              | [coinmarketcap] | [fluidity]
+| [ibm-ecosystem]       | [coingecko]
+| [blockdata]           |
+| [etnw_projects]       |
+| [etherscan_contracts] |
+| [cryptofirst]         |
+| [blockfyre]           |
 
-[xangle]:            https://xangle.io/
-[outlier-ecosystem]: https://outlierventures.io/trackers/#ecosystem
-[ibm-ecosystem]:     https://www.ibm.com/blockchain/ecosystem
-[blockdata]:         https://app.blockdata.tech/projects
-[etnw_projects]:        https://ethereum.network/projects
+[xangle]:              https://xangle.io/
+[outlier-ecosystem]:   https://outlierventures.io/trackers/#ecosystem
+[ibm-ecosystem]:       https://www.ibm.com/blockchain/ecosystem
+[blockdata]:           https://app.blockdata.tech/projects
+[etnw_projects]:       https://ethereum.network/projects
+[etherscan_contracts]: https://etherscan.io/directory/Smart_Contracts
+[cryptofirst]:         https://cryptofirst.co/
+[blockfyre]:           https://blockfyre.com/blockfyre-cryptocurrency-research-reports/
 
-[cryptorank]:        https://cryptorank.io/
-[coinmarketcap]:     https://coinmarketcap.com/
-[coingecko]:         https://www.coingecko.com/en
 
+[cryptorank]:          https://cryptorank.io/
+[coinmarketcap]:       https://coinmarketcap.com/
+[coingecko]:           https://www.coingecko.com/en
 
+[immutability]:        https://immutability.io/
+[fluidity]:            https://www.fluidity.io
 
 # Applications
 
@@ -126,10 +134,13 @@ Lists of projects in the blockchain / web3 space
 | [mathdapp]
 | [dappreview]
 | [dappcom]
+| [bloksio] (eos)
 
 [mathdapp]:    https://mathdapp.store/
 [dappreview]:  https://dapp.review/explore
 [dappcom]:     https://www.dapp.com/search
+[bloksio]:     https://bloks.io/dapps
+
 
 # Jobs
 
