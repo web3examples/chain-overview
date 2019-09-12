@@ -131,15 +131,17 @@ Lists of projects in the blockchain / web3 space
 
 | Application overview (multichain)
 | --------------
+| [positiveblockchain]
 | [mathdapp]
 | [dappreview]
 | [dappcom]
 | [bloksio] (eos)
 
-[mathdapp]:    https://mathdapp.store/
-[dappreview]:  https://dapp.review/explore
-[dappcom]:     https://www.dapp.com/search
-[bloksio]:     https://bloks.io/dapps
+[positiveblockchain]:   https://positiveblockchain.io/tableview/
+[mathdapp]:             https://mathdapp.store/
+[dappreview]:           https://dapp.review/explore
+[dappcom]:              https://www.dapp.com/search
+[bloksio]:              https://bloks.io/dapps
 
 
 # Jobs
