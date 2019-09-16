@@ -197,7 +197,7 @@ Lists of projects in the blockchain / web3 space
 |[consensys] | [monday-vc]         | [boost-vc]          | [reddit]           | [upwork] 
 |            | [angel.co]          | [crypto_jobs]       | [dod-github]
 |            | [smartrecruiters]   | [plexusrs]
-|            |                     | [cointelegraph]
+|            | [youteam]           | [cointelegraph]
 |            |                     | [blockchaindevjobs]
 |            |                     | [blockchainjobboard]
 |            |                     | [cryptojobslist]
@@ -208,6 +208,8 @@ Lists of projects in the blockchain / web3 space
 [monday-vc]:           https://www.monday.vc/jobs
 [smartrecruiters]:     https://jobs.smartrecruiters.com/?keyword=blockchain
 [angel.co]:            https://angel.co/ethereum/jobs
+[youteam]:             https://youteam.io/
+
 
 [boost-vc]:            https://angel.co/boost-vc/jobs-at-portfolio-companies
 [crypto_jobs]:         https://crypto.jobs/
