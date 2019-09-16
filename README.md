@@ -96,6 +96,22 @@ Overview of the different chains and cross chain communication
 [komodo]:       https://komodoplatform.com
 [skalelabs]:    https://skalelabs.com/
 
+
+| Compare platforms     | Decision Support
+| ------------------    | --------------
+| [platform_comparator] | [decisionsupport]
+| [gartner_compare]     | 
+| [leewayhertz_plat]
+| [taxonomyblockchain]
+
+[platform_comparator]:  https://platform.tokens-economy.com/
+[gartner_compare]:      https://www.gartner.com/reviews/market/blockchain-platforms
+
+[decisionsupport]:      https://dspace.library.uu.nl/handle/1874/368090
+[leewayhertz_plat]:     https://www.leewayhertz.com/blockchain-platforms-for-top-blockchain-companies/
+[taxonomyblockchain]:   https://aip.scitation.org/doi/pdf/10.1063/1.5055532
+
+
 # Projects
 Lists of projects in the blockchain / web3 space
 
@@ -103,8 +119,8 @@ Lists of projects in the blockchain / web3 space
 | ---------             |  --------       | -----------  
 | [outlier-ecosystem]   | [cryptorank]    | [immutability]
 | [xangle]              | [coinmarketcap] | [fluidity]
-| [ibm-ecosystem]       | [coingecko]
-| [blockdata]           |
+| [ibm-ecosystem]       | [coingecko]     | [eosindex]
+| [blockdata]           |                 | [nonfungiblealliance]
 | [etnw_projects]       |
 | [etherscan_contracts] |
 | [cryptofirst]         |
@@ -118,7 +134,8 @@ Lists of projects in the blockchain / web3 space
 [etherscan_contracts]: https://etherscan.io/directory/Smart_Contracts
 [cryptofirst]:         https://cryptofirst.co/
 [blockfyre]:           https://blockfyre.com/blockfyre-cryptocurrency-research-reports/
-
+[nonfungiblealliance]: https://nonfungiblealliance.org/members
+[eosindex]:            https://eosindex.io/projects/all
 
 [cryptorank]:          https://cryptorank.io/
 [coinmarketcap]:       https://coinmarketcap.com/
@@ -195,7 +212,7 @@ Lists of projects in the blockchain / web3 space
 | Company    |Job sites (general) | Job site (specific) | Social media sites | Freelancer  
 | --------   | ------------------- | ------------------ | ----------- 
 |[consensys] | [monday-vc]         | [boost-vc]          | [reddit]           | [upwork] 
-|            | [angel.co]          | [crypto_jobs]       | [dod-github]
+|            | [angel.co]          | [crypto_jobs]       | [dod-github]       | [freelancer]
 |            | [smartrecruiters]   | [plexusrs]
 |            | [youteam]           | [cointelegraph]
 |            |                     | [blockchaindevjobs]
@@ -224,7 +241,7 @@ Lists of projects in the blockchain / web3 space
 [dod-github]:          https://github.com/Department-of-Decentralization/Ecosystem-Job-Openings
 
 [upwork]:              https://www.upwork.com/o/jobs/browse/skill/blockchain/
-
+[freelancer]:          https://www.freelancer.com/jobs/?keyword=blockchain
 
 ## Tasks
 
