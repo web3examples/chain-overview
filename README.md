@@ -146,19 +146,26 @@ Lists of projects in the blockchain / web3 space
 
 # Applications
 
-| Application overview (multichain)
-| --------------
-| [positiveblockchain]
+| Application overview (multichain)	| R3				| Hyperledger
+| --------------					| --------  		|---------------
+| [positiveblockchain]				| [marketplace_r3]  | [hyperledeger_show]
 | [mathdapp]
 | [dappreview]
 | [dappcom]
 | [bloksio] (eos)
+| [blocklive]
+| [unbounded]
 
 [positiveblockchain]:   https://positiveblockchain.io/tableview/
 [mathdapp]:             https://mathdapp.store/
 [dappreview]:           https://dapp.review/explore
 [dappcom]:              https://www.dapp.com/search
 [bloksio]:              https://bloks.io/dapps
+[blocklive]: 			http://blocklive.nl/
+[unbounded]:			https://unbounded.network
+[marketplace_r3]: 		https://marketplace.r3.com/solutions
+[hyperledeger_show]:  	https://www.hyperledger.org/resources/blockchain-showcase
+
 
 
 # Jobs
@@ -166,18 +173,18 @@ Lists of projects in the blockchain / web3 space
 
 ## Dutch jobs
 
-| Consultancy  | Companies  | Jobs sites (general)      | Job sites (specific)  | Academic
-| ------------ | ---------- | ------------------------- | --------------------- | --------
-| [axveco]     | [rabobank] | [linkedin]                | [blockchain-vacature] | [academictransfer]
-| [horizon]    | [ing]      | [indeed]                  | [blockchainvacatures]
-| [upperclub]  | [abnamro]  | [glassdoor]               | [codeguild]
-| [weconomics] |            | [adzuna]                  | [blocktribe]
-| [xurux]      |            | [vacat]
-|              |            | [vacatures]
-|              |            | [nationalevacaturebank]
-|              |            | [simplyhired]
-|              |            | [recruit]
-|              |            | [trovit]
+| Consultancy  | Companies               | Jobs sites (general)      | Job sites (specific)  | Academic
+| ------------ | ----------              | ------------------------- | --------------------- | --------
+| [axveco]     | [rabobank]              | [linkedin]                | [blockchain-vacature] | [academictransfer]
+| [horizon]    | [ing]                   | [indeed]                  | [blockchainvacatures]
+| [upperclub]  | [abnamro]               | [glassdoor]               | [codeguild]
+| [weconomics] | [nationalenederlanden]  | [adzuna]                  | [blocktribe]
+| [xurux]      | [ey]                    | [vacat]
+|              | [kpmg]                  | [vacatures]
+|              | [deloitte]              | [nationalevacaturebank]
+|              | [overheid]              | [simplyhired]
+|              |                         | [recruit]
+|              |                         | [trovit]
 
 [axveco]:       https://axveco.com
 [horizon]:      http://www.horizon.red
@@ -185,9 +192,14 @@ Lists of projects in the blockchain / web3 space
 [weconomics]:   https://weconomics.org
 [xurux]:        https://xurux.nl
 
-[rabobank]:         https://rabobank.jobs/nl/vacatures/?q=blockchain
-[ing]:              https://www.ing.jobs/Nederland/Vacatures.htm?keyword=blockchain
-[abnamro]:          https://www.abnamro.com/nl/carriere/vacatures/index.html?keywords=blockchain
+[rabobank]:              https://rabobank.jobs/nl/vacatures/?q=blockchain
+[ing]:                   https://www.ing.jobs/Nederland/Vacatures.htm?keyword=blockchain
+[abnamro]:               https://www.abnamro.com/nl/carriere/vacatures/index.html?keywords=blockchain
+[nationalenederlanden]:  https://nn-careers.com/nl/jobs/?filter-searchphrase=blockchain
+[ey]:                    https://nlcareers.ey.com/nl/?s=blockchain
+[kpmg]:                  https://www.werkenbijkpmg.nl/vacatures/?search=blockchain
+[deloitte]:              https://werkenbijdeloitte.nl/vacatures?skip_prefill=1&q=blockchain
+[overheid]:              https://www.werkenbijdeoverheid.nl/vacatures?term=blockchain
 
 [indeed]:                https://www.indeed.nl/Blockchain-vacatures
 [vacat]:                 https://www.vacat.nl/?vacatures=blockchain
@@ -209,16 +221,17 @@ Lists of projects in the blockchain / web3 space
 
 ## International jobs
 
-| Company    |Job sites (general) | Job site (specific) | Social media sites | Freelancer  
-| --------   | ------------------- | ------------------ | ----------- 
+| Company    |Job sites (general)  | Job site (specific) | Social media sites | Freelancer  
+| --------   | ------------------- | ------------------  | -----------        | -------
 |[consensys] | [monday-vc]         | [boost-vc]          | [reddit]           | [upwork] 
 |            | [angel.co]          | [crypto_jobs]       | [dod-github]       | [freelancer]
-|            | [smartrecruiters]   | [plexusrs]
+|            | [smartrecruiters]   | [plexusrs]          | [hackernnewshiring]
 |            | [youteam]           | [cointelegraph]
 |            |                     | [blockchaindevjobs]
 |            |                     | [blockchainjobboard]
 |            |                     | [cryptojobslist]
 |            |                     | [workonblockchain]
+|            |                     | [blocktribe]
 
 [consensys]:           https://consensys.net/open-roles
 
@@ -236,9 +249,11 @@ Lists of projects in the blockchain / web3 space
 [blockchainjobboard]:  http://www.blockchainjobboard.org
 [cryptojobslist]:      https://cryptojobslist.com
 [workonblockchain]:    https://workonblockchain.com/
+[blocktribe]:          https://blocktribe.com/
 
 [reddit]:              https://www.reddit.com/r/ethdev/comments/abg8pk/whos_hiring_and_whos_for_hire_megathread_2019/
 [dod-github]:          https://github.com/Department-of-Decentralization/Ecosystem-Job-Openings
+[hackernnewshiring]:   https://hnhiring.com/locations/amsterdam
 
 [upwork]:              https://www.upwork.com/o/jobs/browse/skill/blockchain/
 [freelancer]:          https://www.freelancer.com/jobs/?keyword=blockchain
@@ -251,7 +266,7 @@ Lists of projects in the blockchain / web3 space
 |                | [bounties.network]  | [thehydra]           | [icodrops]
 |                | [aion]              | [bug_bounty_list]    | [bountiesalert]
 |                | [bountyhub]         | [hackerone]
-|                | [bounty0x]
+|                | [bounty0x]          | [firebounty]
 |                | [fundrequest]
 |                | [bountyone]
 |                | [bountyhive]
@@ -272,6 +287,7 @@ Lists of projects in the blockchain / web3 space
 [thehydra]:         https://thehydra.io/
 [bug_bounty_list]:  https://consensys.github.io/smart-contract-best-practices/bug_bounty_list/
 [hackerone]:        https://hackerone.com
+[firebounty]:       https://firebounty.com/
 
 [airdropalert]:     https://airdropalert.com/
 [icodrops]:         https://icodrops.com/
