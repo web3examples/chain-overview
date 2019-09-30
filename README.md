@@ -1,5 +1,3 @@
-# Web3 Ecosystem
-
 The Web3 ecosystem consists of several building blocks. ([Home](..))
 
 This document contains info about:
