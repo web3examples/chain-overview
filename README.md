@@ -1,7 +1,6 @@
 The Web3 ecosystem consists of several building blocks. ([Home](..))
 
 This document contains info about:
-- [Web3 Ecosystem](#web3-ecosystem)
 - [Investors in the ecosystem](#investors-in-the-ecosystem)
 - [Chain overview](#chain-overview)
 - [Projects](#projects)
