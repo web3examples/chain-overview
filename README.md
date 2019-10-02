@@ -224,7 +224,7 @@ Lists of projects in the blockchain / web3 space
 |            | [angel.co]          | [crypto_jobs]       | [dod-github]       | [freelancer]
 |            | [smartrecruiters]   | [plexusrs]          | [hackernnewshiring]
 |            | [youteam]           | [cointelegraph]
-|            |                     | [blockchaindevjobs]
+|            | [stackshare]        | [blockchaindevjobs]
 |            |                     | [blockchainjobboard]
 |            |                     | [cryptojobslist]
 |            |                     | [workonblockchain]
@@ -236,7 +236,7 @@ Lists of projects in the blockchain / web3 space
 [smartrecruiters]:     https://jobs.smartrecruiters.com/?keyword=blockchain
 [angel.co]:            https://angel.co/ethereum/jobs
 [youteam]:             https://youteam.io/
-
+[stackshare]: 		   https://stackshare.io/match
 
 [boost-vc]:            https://angel.co/boost-vc/jobs-at-portfolio-companies
 [crypto_jobs]:         https://crypto.jobs/
@@ -293,12 +293,12 @@ Lists of projects in the blockchain / web3 space
 
 # Background information
 
-| Journals
-| -----
-| [jbba]
+| Journals | Papers
+| -----	   | ---------
+| [jbba]   | [coinresearch]
 
-[jbba]: https://jbba.scholasticahq.com/ 
-
+[jbba]: 			https://jbba.scholasticahq.com/ 
+[coinresearch]: 	https://www.coinresear.ch/papers/
 
 # Standardisation
 
@@ -328,3 +328,29 @@ Lists of projects in the blockchain / web3 space
 
 [eu_single_market]:     https://ec.europa.eu/digital-single-market/en/blockchain-technologies
 [eublockchainforum]:    https://www.eublockchainforum.eu/
+
+
+# How to design a blockchain application
+
+| Design
+| ---------------
+| [bus_eco_des]
+| [quora_arch]
+| [design_block]
+| [ibm_design]
+| [8stepdev]
+| [usecasedev]
+| [ecodesign]
+| [entdesign]
+| [designthink]
+
+
+[bus_eco_des]:	https://inform.tmforum.org/insights/2018/05/blockchain-and-business-ecosystem-design/
+[quora_arch]: 	https://www.quora.com/How-do-I-architect-a-Blockchain-application
+[design_block]:	https://media.consensys.net/designing-for-blockchain-whats-different-and-what-s-at-stake-b867eeade1c9
+[ibm_design]:	https://medium.com/design-ibm/blockchain-design-principles-599c5c067b6e
+[8stepdev]:		https://www.newgenapps.com/blog/8-steps-how-to-start-blockchain-development-dapp
+[usecasedev]:	https://www.researchgate.net/publication/324685870_Solution-based_Innovation_-_A_Method_for_Emerging_Technology_Use_Case_Development_Research_in_Progress/download
+[ecodesign]:	https://knect365.com/innovation/article/1d851302-e7da-42e1-891f-67be84e1879f/business-ecosystem-design-are-key-to-initiating-decentralised-systems
+[entdesign]:	https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781838649982/1/ch01lvl1sec15/enterprise-design-principles
+[designthink]:	https://medium.com/patara/design-thinking-for-blockchains-ded1d6cabe53
