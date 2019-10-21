@@ -58,7 +58,7 @@ Overview of the different chains and cross chain communication
 | 1st: POS                    |                         | [neo]<br>[vechain]<br>[lisk]          | [dfinity]<br>[arcblock]<br>[komodo]<br>[cardano]
 | 1st: DPOS                   |                         | [tron]                                | [eos]
 | 1st: hybrid POW/POS         |                         |                                       | [ethereum 2.0]<br>[aion]
-| Cross chain                 |                         | [wanchain]                            | [polkadot]
+| Cross chain                 |                         | [wanchain]                            | [polkadot]<br>[overledger]
 | 2nd: Payment channel        | [lightning]             | [raiden]
 | 2nd: Side chains            |                         | [skalelabs]
 | 2nd: Sharding               |
@@ -92,7 +92,7 @@ Overview of the different chains and cross chain communication
 [lisk]:         https://lisk.io
 [komodo]:       https://komodoplatform.com
 [skalelabs]:    https://skalelabs.com/
-
+[overledger]:   https://www.quant.network/
 
 | Compare platforms     | Decision Support
 | ------------------    | --------------
@@ -122,6 +122,7 @@ Lists of projects in the blockchain / web3 space
 | [etherscan_contracts] |
 | [cryptofirst]         |
 | [blockfyre]           |
+| [eublockchainforum]
 
 [xangle]:              https://xangle.io/
 [outlier-ecosystem]:   https://outlierventures.io/trackers/#ecosystem
@@ -131,6 +132,9 @@ Lists of projects in the blockchain / web3 space
 [etherscan_contracts]: https://etherscan.io/directory/Smart_Contracts
 [cryptofirst]:         https://cryptofirst.co/
 [blockfyre]:           https://blockfyre.com/blockfyre-cryptocurrency-research-reports/
+[eublockchainforum]:   https://www.eublockchainforum.eu/
+
+
 [nonfungiblealliance]: https://nonfungiblealliance.org/members
 [eosindex]:            https://eosindex.io/projects/all
 
@@ -140,6 +144,59 @@ Lists of projects in the blockchain / web3 space
 
 [immutability]:        https://immutability.io/
 [fluidity]:            https://www.fluidity.io
+
+
+# Consortium / counsil / alliance / Initiative 
+
+| Healtcare                       | Insurance      | Bank / financial|  Trade        | Logistics   | Transport
+| ------------                    | ----------     | ------------    | ----          | --------    | ----------
+| [synaptichealthalliance]        | [b3i]          | [bankchain]     | [ptdl]        | [gsbn]      | [mobility_mobi]
+| [hash_h]<br>[procredex]         | [aais_openidl] | [isitc]         | [gbbcouncil]  | [tradelens] | [bc_in_transport]
+| [health_utility_network]        | [riskstream]   | [fisco]         | [marcopolo]
+| [coalesce_all]<br>[coalesce_li] | [bc_insure_all]| [fundchain]     | [otb]
+| [rymedi]                        |                |                 | [we_trade]
+| [mediledger]                    |
+| [melloddy_tw]<br>[imi_melloddy] |
+| [remedichain]                   |
+| [csbwg_li]<br>[csbwg_kitchain]  |
+
+
+[synaptichealthalliance]:    https://www.synaptichealthalliance.com
+[hash_h]:                    https://hashedhealth.com/
+[procredex]:                 http://www.procredex.com
+[health_utility_network]:    https://newsroom.ibm.com/2019-01-24-Aetna-Anthem-Health-Care-Service-Corporation-PNC-Bank-and-IBM-announce-collaboration-to-establish-blockchain-based-ecosystem-for-the-healthcare-industry
+[coalesce_all]:              https://www.prnewswire.com/news-releases/nasco-partners-with-several-healthcare-companies-to-form-a-consortium-focused-on-delivering-breakthrough-technologies-for-the-healthcare-industry-300834449.html
+[coalesce_li]:               https://www.linkedin.com/showcase/coalesce-health-alliance/about/
+[rymedi]:                    https://www.rymedi.com/
+[mediledger]:                https://www.mediledger.com/
+[melloddy_tw]:               https://twitter.com/melloddy_imi
+[imi_melloddy]:              https://www.imi.europa.eu/projects-results/project-factsheets/melloddy
+[remedichain]:               https://www.remedichain.com
+[csbwg_li]:                  https://www.linkedin.com/company/csbwg/
+[csbwg_kitchain]:            https://www.kitchain.org/
+
+[b3i]:                       https://b3i.tech
+[aais_openidl]:              https://aaisonline.com/openidl
+[riskstream]:                https://www.theinstitutes.org/guide/riskstream-collaborative
+[bc_insure_all]:             https://www.blockchaininsurancealliance.org/
+
+[bankchain]:                 http://www.bankchaintech.com/members.php
+[isitc]:                     https://isitc-europe.com/
+[fisco]:                     https://www.fisco.com.cn/viewsEN/info.html
+[fundchain]:                 http://fundchain.lu/
+
+[ptdl]:                      http://www.ptdlgroup.org/
+[gbbcouncil]:                https://gbbcouncil.org/
+[marcopolo]:                 https://www.marcopolo.finance/
+[otb]:                       https://otb.globaletrade.services/login
+[we_trade]:                  https://we-trade.com/
+
+[gsbn]:                      https://www.cargosmart.com/en/news/top-ocean-carriers-and-terminal-operators-initiate-blockchain-consortium.htm
+[tradelens]:                 https://www.tradelens.com/
+
+
+[mobility_mobi]:             https://dlt.mobi/
+[bc_in_transport]:           https://www.bita.studio/
 
 # Applications
 
@@ -296,9 +353,14 @@ Lists of projects in the blockchain / web3 space
 | Journals | Papers
 | -----	   | ---------
 | [jbba]   | [coinresearch]
+|          | [blockchainpapers]
+
+
 
 [jbba]: 			https://jbba.scholasticahq.com/ 
 [coinresearch]: 	https://www.coinresear.ch/papers/
+[blockchainpapers]: https://github.com/decrypto-org/blockchain-papers
+
 
 # Standardisation
 
@@ -353,4 +415,4 @@ Lists of projects in the blockchain / web3 space
 [usecasedev]:	https://www.researchgate.net/publication/324685870_Solution-based_Innovation_-_A_Method_for_Emerging_Technology_Use_Case_Development_Research_in_Progress/download
 [ecodesign]:	https://knect365.com/innovation/article/1d851302-e7da-42e1-891f-67be84e1879f/business-ecosystem-design-are-key-to-initiating-decentralised-systems
 [entdesign]:	https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781838649982/1/ch01lvl1sec15/enterprise-design-principles
-[designthink]:	https://medium.com/patara/design-thinking-for-blockchains-ded1d6cabe53
+[designthink]:	https://medium.com/patara/design-thinking-for-blockchains-ded1d6cabe5
