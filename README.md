@@ -123,6 +123,7 @@ Lists of projects in the blockchain / web3 space
 | [cryptofirst]         |
 | [blockfyre]           |
 | [eublockchainforum]
+| [messari]
 
 [xangle]:              https://xangle.io/
 [outlier-ecosystem]:   https://outlierventures.io/trackers/#ecosystem
@@ -133,7 +134,7 @@ Lists of projects in the blockchain / web3 space
 [cryptofirst]:         https://cryptofirst.co/
 [blockfyre]:           https://blockfyre.com/blockfyre-cryptocurrency-research-reports/
 [eublockchainforum]:   https://www.eublockchainforum.eu/
-
+[messari]:             https://messari.io/registry
 
 [nonfungiblealliance]: https://nonfungiblealliance.org/members
 [eosindex]:            https://eosindex.io/projects/all
@@ -364,21 +365,30 @@ Lists of projects in the blockchain / web3 space
 
 # Standardisation
 
-| Standardisation
-| -----
-| [overview]
-| [ISO_TC307]
-| [itu_FG_DLT]
-| [ieee]
-| [w3c]
-| [opengeospacial]
+| Overview               | ISO              | ISO Security   | ITU           | IEEE   | W3C   | OpenGeoSpacial
+| -----                  | --------         | ------------   | ---           | ----   | ----  | ------------
+| [overview]             | [ISO_TC307]      | [iso29115-auth] | [itu_FG_DLT] | [ieee] | [w3c] | [opengeospacial]
+| [standict]             | [iso22739-terms] |
+|                        | [iso23455-sc]    |
 
-[overview]:     https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/blockchain-and-distributed-digital-ledger-technologies
-[ISO_TC307]:    https://www.iso.org/committee/6266604.html
-[itu_FG_DLT]:   https://www.itu.int/en/ITU-T/focusgroups/dlt
-[ieee]:         https://blockchain.ieee.org/
-[w3c]:          https://w3c.github.io/web-ledger/
-[opengeospacial]:   http://www.opengeospatial.org/projects/groups/bdltdwg
+
+
+[overview]:          https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/blockchain-and-distributed-digital-ledger-technologies
+[standict]:          https://www.standict.eu/search/node/blockchain
+
+[ISO_TC307]:         https://www.iso.org/committee/6266604.html
+[itu_FG_DLT]:        https://www.itu.int/en/ITU-T/focusgroups/dlt
+[ieee]:              https://blockchain.ieee.org/
+[w3c]:               https://w3c.github.io/web-ledger/
+[opengeospacial]:    http://www.opengeospatial.org/projects/groups/bdltdwg
+
+
+
+[iso23455-sc]:       https://www.iso.org/obp/ui/#iso:std:iso:tr:23455:ed-1:v1:en
+[iso22739-terms]:    https://www.iso.org/obp/ui/#iso:std:iso:22739:dis:ed-1:v1:en
+
+[iso29115-auth]:     https://www.iso.org/obp/ui/#iso:std:iso-iec:29115:ed-1:v1:en
+
 
 
 ## Government stimulation
