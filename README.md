@@ -10,7 +10,7 @@ This document contains info about:
   - [Dutch jobs](#dutch-jobs)
   - [International jobs](#international-jobs)
   - [Tasks](#tasks)
-- [Journals and Papers](#journals-and-papers)
+- [Journals, Papers and academic conferences](#journals-papers-and-academic-conferences)
 - [Conferences](#conferences)
 - [Standardisation](#standardisation)
   - [Government stimulation](#government-stimulation)
@@ -115,10 +115,10 @@ Overview of the different chains and cross chain communication
 # Projects
 Lists of projects in the blockchain / web3 space
 
-| Project list          | Token dashboard | Projects
-| ---------             |  --------       | -----------  
-| [outlier-ecosystem]   | [cryptorank]    | [immutability]
-| [xangle]              | [coinmarketcap] | [fluidity]
+| Project list          | Token dashboard | Projects               | Landscape overview
+| ---------             |  --------       | -----------            | --------
+| [outlier-ecosystem]   | [cryptorank]    | [immutability]         | [singapore]
+| [xangle]              | [coinmarketcap] | [fluidity]             | [pan_african]
 | [ibm-ecosystem]       | [coingecko]     | [eosindex]
 | [blockdata]           |                 | [nonfungiblealliance]
 | [etnw_projects]       |
@@ -155,10 +155,12 @@ Lists of projects in the blockchain / web3 space
 [immutability]:        https://immutability.io/
 [fluidity]:            https://www.fluidity.io
 
+[singapore]:    https://www2.imda.gov.sg/-/media/Imda/Images/Content/Programme/Singapore-Blockchain-Landscape-Map/20191014-Ecosystem-Map-V121-2mbpage0001/20191014-Ecosystem-Map-V1216mb.pdf
+[pan_african]:  https://medium.com/african-digital-asset-framework/a-map-to-the-pan-african-blockchain-ecosystem-open-sourced-6fabf3d8b66a
 
 # Consortium / counsil / alliance / Initiative 
 
-| Healtcare                       | Insurance      | Bank / financial|  Trade        | Logistics   | Transport
+| Healthcare                      | Insurance      | Bank / financial|  Trade        | Logistics   | Transport
 | ------------                    | ----------     | ------------    | ----          | --------    | ----------
 | [synaptichealthalliance]        | [b3i]          | [bankchain]     | [ptdl]        | [gsbn]      | [mobility_mobi]
 | [hash_h]<br>[procredex]         | [aais_openidl] | [isitc]         | [gbbcouncil]  | [tradelens] | [bc_in_transport]
@@ -471,3 +473,17 @@ Lists of projects in the blockchain / web3 space
 [ecodesign]:	https://knect365.com/innovation/article/1d851302-e7da-42e1-891f-67be84e1879f/business-ecosystem-design-are-key-to-initiating-decentralised-systems
 [entdesign]:	https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781838649982/1/ch01lvl1sec15/enterprise-design-principles
 [designthink]:	https://medium.com/patara/design-thinking-for-blockchains-ded1d6cabe5
+
+
+
+# Eduction networks
+
+| Education
+| --------------
+| [blockchainedu]
+| [ben_nl]
+
+
+[blockchainedu]: https://blockchainedu.org
+[ben_nl]:        http://blockchainedu.nl/
+
