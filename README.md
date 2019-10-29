@@ -4,14 +4,17 @@ This document contains info about:
 - [Investors in the ecosystem](#investors-in-the-ecosystem)
 - [Chain overview](#chain-overview)
 - [Projects](#projects)
+- [Consortium / counsil / alliance / Initiative](#consortium--counsil--alliance--initiative)
 - [Applications](#applications)
 - [Jobs](#jobs)
   - [Dutch jobs](#dutch-jobs)
   - [International jobs](#international-jobs)
   - [Tasks](#tasks)
-- [Background information](#background-information)
+- [Journals and Papers](#journals-and-papers)
+- [Conferences](#conferences)
 - [Standardisation](#standardisation)
   - [Government stimulation](#government-stimulation)
+- [How to design a blockchain application](#how-to-design-a-blockchain-application)
 
 
 # Investors in the ecosystem
@@ -124,6 +127,7 @@ Lists of projects in the blockchain / web3 space
 | [blockfyre]           |
 | [eublockchainforum]
 | [messari]
+| [elec_cap_ecosys]
 
 [xangle]:              https://xangle.io/
 [outlier-ecosystem]:   https://outlierventures.io/trackers/#ecosystem
@@ -135,6 +139,11 @@ Lists of projects in the blockchain / web3 space
 [blockfyre]:           https://blockfyre.com/blockfyre-cryptocurrency-research-reports/
 [eublockchainforum]:   https://www.eublockchainforum.eu/
 [messari]:             https://messari.io/registry
+
+
+[elec_cap_ecosys]:    https://github.com/electric-capital/crypto-ecosystems/tree/master/data/ecosystems
+
+
 
 [nonfungiblealliance]: https://nonfungiblealliance.org/members
 [eosindex]:            https://eosindex.io/projects/all
@@ -349,7 +358,7 @@ Lists of projects in the blockchain / web3 space
 [bountiesalert]:    https://bountiesalert.com
 
 
-# Background information
+# Journals and Papers
 
 | Journals | Papers
 | -----	   | ---------
@@ -361,6 +370,28 @@ Lists of projects in the blockchain / web3 space
 [jbba]: 			https://jbba.scholasticahq.com/ 
 [coinresearch]: 	https://www.coinresear.ch/papers/
 [blockchainpapers]: https://github.com/decrypto-org/blockchain-papers
+
+
+# Conferences
+
+| Devcon                    | Web3 summit      
+| -----------               | -------------
+| [devcon5]                 | [web3summit_2019]
+| [devcon4]                 | [web3summit_2018]
+| [devcon3a]<br>[devcon3b]  |
+| [devcon2]                 |
+| [devcon1]                 |
+
+
+[devcon5]: https://slideslive.com/ethereum/devcon5
+[devcon4]: https://slideslive.com/t/devcon4
+[devcon3a]: https://blog.ethereum.org/2017/11/26/devcon3-vids-available-now/
+[devcon3b]: https://www.bokconsulting.com.au/blog/ethereum-devcon3-conference-in-cancun-unofficial-agenda-with-slides-videos-and-links/
+[devcon2]: https://www.bokconsulting.com.au/blog/ethereum-devcon2-conference-in-shanghai/
+[devcon1]: https://www.reddit.com/r/ethereum/comments/3sunsx/devcon1_deep_links_to_youtube_videos/
+
+[web3summit_2018]: https://2018.web3summit.com/video/
+[web3summit_2019]: https://www.youtube.com/watch?v=k7hXkiTCTC0&list=PLxVihxZC42nFsk2IL7JWqoumkkVkczQob
 
 
 # Standardisation
