@@ -358,41 +358,55 @@ Lists of projects in the blockchain / web3 space
 [bountiesalert]:    https://bountiesalert.com
 
 
-# Journals and Papers
+# Journals, Papers and academic conferences
 
-| Journals | Papers
-| -----	   | ---------
-| [jbba]   | [coinresearch]
-|          | [blockchainpapers]
-
-
+| Journals | Papers             | Conference
+| -----	   | ---------          | ------------
+| [jbba]   | [coinresearch]     | [ieeedapps]
+|          | [blockchainpapers] | [wikicfp]
 
 [jbba]: 			https://jbba.scholasticahq.com/ 
+
 [coinresearch]: 	https://www.coinresear.ch/papers/
 [blockchainpapers]: https://github.com/decrypto-org/blockchain-papers
 
+[ieeedapps]:        https://ieeedapps.net/
+[wikicfp]:          http://www.wikicfp.com/cfp/call?conference=blockchain
 
 # Conferences
 
-| Devcon                    | Web3 summit      
-| -----------               | -------------
-| [devcon5]                 | [web3summit_2019]
-| [devcon4]                 | [web3summit_2018]
-| [devcon3a]<br>[devcon3b]  |
+| Devcon                    | Web3 summit       | DappCon         | EDCon        | Stanford        | TEGG
+| -----------               | -------------     | --------------- | ----------   | --------        | -----
+|                           |                   |                 |              | [stanford_2020] | 
+| [devcon5]                 | [web3summit_2019] | [dappcon]       | [edcon2019]  | [stanford_2019] | [tegg2019]
+| [devcon4]                 | [web3summit_2018] |                 | [edcon2018]  | [stanford_2018]
+| [devcon3a]<br>[devcon3b]  |                   |                 |              | [stanford_2017]
 | [devcon2]                 |
 | [devcon1]                 |
 
 
-[devcon5]: https://slideslive.com/ethereum/devcon5
-[devcon4]: https://slideslive.com/t/devcon4
-[devcon3a]: https://blog.ethereum.org/2017/11/26/devcon3-vids-available-now/
-[devcon3b]: https://www.bokconsulting.com.au/blog/ethereum-devcon3-conference-in-cancun-unofficial-agenda-with-slides-videos-and-links/
-[devcon2]: https://www.bokconsulting.com.au/blog/ethereum-devcon2-conference-in-shanghai/
-[devcon1]: https://www.reddit.com/r/ethereum/comments/3sunsx/devcon1_deep_links_to_youtube_videos/
+[devcon5]:         https://slideslive.com/ethereum/devcon5
+[devcon4]:         https://slideslive.com/t/devcon4
+[devcon3a]:        https://blog.ethereum.org/2017/11/26/devcon3-vids-available-now/
+[devcon3b]:        https://www.bokconsulting.com.au/blog/ethereum-devcon3-conference-in-cancun-unofficial-agenda-with-slides-videos-and-links/
+[devcon2]:         https://www.bokconsulting.com.au/blog/ethereum-devcon2-conference-in-shanghai/
+[devcon1]:         https://www.reddit.com/r/ethereum/comments/3sunsx/devcon1_deep_links_to_youtube_videos/
 
 [web3summit_2018]: https://2018.web3summit.com/video/
 [web3summit_2019]: https://www.youtube.com/watch?v=k7hXkiTCTC0&list=PLxVihxZC42nFsk2IL7JWqoumkkVkczQob
 
+[dappcon]:         https://www.youtube.com/channel/UCruCCeCNWBAM7JI-xAMtXpQ/playlists
+
+[edcon2019]:       https://www.youtube.com/watch?v=P4loHGCplX4&list=PL6-IF807eaBGtwcxiOCf4kO4IK7SGzDpK
+[edcon2018]:       https://www.youtube.com/watch?v=vlLFQqfgOPk&list=PL6-IF807eaBG5sH-SQXlosqKRM2BZkrqw
+
+[stanford_2020]:   https://cbr.stanford.edu/sbc20/
+[stanford_2019]:   https://cyber.stanford.edu/sbc19
+[stanford_2018]:   https://cyber.stanford.edu/bpase18
+[stanford_2017]:   https://cyber.stanford.edu/blockchainconf
+
+
+[tegg2019]:         https://www.youtube.com/playlist?list=PL-GxJch-YeZckVPgl4O3mUoot3kq6NLKP
 
 # Standardisation
 
