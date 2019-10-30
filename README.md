@@ -251,6 +251,7 @@ Lists of projects in the blockchain / web3 space
 |              | [overheid]              | [simplyhired]
 |              |                         | [recruit]
 |              |                         | [trovit]
+|              |                         | [magnet]
 
 [axveco]:       https://axveco.com
 [horizon]:      http://www.horizon.red
@@ -277,6 +278,7 @@ Lists of projects in the blockchain / web3 space
 [simplyhired]:           https://www.simplyhired.nl/search?q=blockchain
 [recruit]:               https://nl.recruit.net/search.html?query=blockchain
 [trovit]:                https://vacatures.trovit.nl/index.php/cod.search_jobs/type.0/what_d.blockchain/
+[magnet]:                https://magnet.me/nl-NL/vacatures?query=blockchain
 
 [blockchain-vacature]:   https://www.blockchain-vacature.nl/
 [blockchainvacatures]:   https://blockchainvacatures.nl/jobs/
@@ -292,12 +294,16 @@ Lists of projects in the blockchain / web3 space
 |[consensys] | [monday-vc]         | [boost-vc]          | [reddit]           | [upwork] 
 |            | [angel.co]          | [crypto_jobs]       | [dod-github]       | [freelancer]
 |            | [smartrecruiters]   | [plexusrs]          | [hackernnewshiring]
-|            | [youteam]           | [cointelegraph]
+|            | [youteam]           | [cointelegraph]     | [stackoverflow]
 |            | [stackshare]        | [blockchaindevjobs]
-|            |                     | [blockchainjobboard]
-|            |                     | [cryptojobslist]
-|            |                     | [workonblockchain]
+|            | [pentasia]          | [blockchainjobboard]
+|            | [remoteok]          | [cryptojobslist]
+|            | [thelocal]          | [workonblockchain]
 |            |                     | [blocktribe]
+|            |                     | [cryptorecruit]
+|            |                     | [cryptocurrencyjobs]
+|            |                     | [blockchain_works]
+
 
 [consensys]:           https://consensys.net/open-roles
 
@@ -305,7 +311,10 @@ Lists of projects in the blockchain / web3 space
 [smartrecruiters]:     https://jobs.smartrecruiters.com/?keyword=blockchain
 [angel.co]:            https://angel.co/ethereum/jobs
 [youteam]:             https://youteam.io/
-[stackshare]: 		   https://stackshare.io/match
+[stackshare]:          https://stackshare.io/match
+[pentasia]:            https://www.pentasia.com/jobs?query=blockchain
+[remoteok]:            https://remoteok.io/remote-blockchain-jobs
+[thelocal]:            https://jobs.thelocal.com/
 
 [boost-vc]:            https://angel.co/boost-vc/jobs-at-portfolio-companies
 [crypto_jobs]:         https://crypto.jobs/
@@ -316,10 +325,14 @@ Lists of projects in the blockchain / web3 space
 [cryptojobslist]:      https://cryptojobslist.com
 [workonblockchain]:    https://workonblockchain.com/
 [blocktribe]:          https://blocktribe.com/
+[cryptorecruit]:       https://www.cryptorecruit.com
+[cryptocurrencyjobs]:  https://cryptocurrencyjobs.co
+[blockchain_works]:    https://blockchain.works-hub.com/
 
 [reddit]:              https://www.reddit.com/r/ethdev/comments/abg8pk/whos_hiring_and_whos_for_hire_megathread_2019/
 [dod-github]:          https://github.com/Department-of-Decentralization/Ecosystem-Job-Openings
 [hackernnewshiring]:   https://hnhiring.com/locations/amsterdam
+[stackoverflow]:       https://stackoverflow.com/jobs?q=blockchain
 
 [upwork]:              https://www.upwork.com/o/jobs/browse/skill/blockchain/
 [freelancer]:          https://www.freelancer.com/jobs/?keyword=blockchain
