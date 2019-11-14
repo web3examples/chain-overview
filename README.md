@@ -245,13 +245,15 @@ Lists of projects in the blockchain / web3 space
 | [horizon]    | [ing]                   | [indeed]                  | [blockchainvacatures]
 | [upperclub]  | [abnamro]               | [glassdoor]               | [codeguild]
 | [weconomics] | [nationalenederlanden]  | [adzuna]                  | [blocktribe]
-| [xurux]      | [ey]                    | [vacat]
+| [xurux]      | [ey]                    | [vacat]                   | [bc_vac]
 |              | [kpmg]                  | [vacatures]
 |              | [deloitte]              | [nationalevacaturebank]
 |              | [overheid]              | [simplyhired]
 |              |                         | [recruit]
 |              |                         | [trovit]
 |              |                         | [magnet]
+|              |                         | [itsync]
+|              |                         | [it_vac_online]
 
 [axveco]:       https://axveco.com
 [horizon]:      http://www.horizon.red
@@ -279,11 +281,15 @@ Lists of projects in the blockchain / web3 space
 [recruit]:               https://nl.recruit.net/search.html?query=blockchain
 [trovit]:                https://vacatures.trovit.nl/index.php/cod.search_jobs/type.0/what_d.blockchain/
 [magnet]:                https://magnet.me/nl-NL/vacatures?query=blockchain
+[itsync]:                https://www.itsync.nl
+[it_vac_online]:         https://www.it-vacatures-online.nl/vacatures?utf8=%E2%9C%93&region_name=&job_guide_name=&search%5Bzipcode_eq%5D=&search%5Bkeywords_scope%5D=blockchain
+
 
 [blockchain-vacature]:   https://www.blockchain-vacature.nl/
 [blockchainvacatures]:   https://blockchainvacatures.nl/jobs/
 [codeguild]:             https://www.codeguild.nl/?s=blockchain
 [blocktribe]:            https://blocktribe.com/jobs/?&Location_Country[multi_like_and][]=Netherlands
+[bc_vac]:                https://blockchainvacatures.nl/
 
 [academictransfer]:      https://www.academictransfer.com/en/?q=blockchain
 
@@ -299,7 +305,7 @@ Lists of projects in the blockchain / web3 space
 |            | [pentasia]          | [blockchainjobboard]
 |            | [remoteok]          | [cryptojobslist]
 |            | [thelocal]          | [workonblockchain]
-|            |                     | [blocktribe]
+|            | [hackerhiringhunt]  | [blocktribe]
 |            |                     | [cryptorecruit]
 |            |                     | [cryptocurrencyjobs]
 |            |                     | [blockchain_works]
@@ -315,6 +321,8 @@ Lists of projects in the blockchain / web3 space
 [pentasia]:            https://www.pentasia.com/jobs?query=blockchain
 [remoteok]:            https://remoteok.io/remote-blockchain-jobs
 [thelocal]:            https://jobs.thelocal.com/
+[hackerhiringhunt]:    https://hiring.ben.church/
+
 
 [boost-vc]:            https://angel.co/boost-vc/jobs-at-portfolio-companies
 [crypto_jobs]:         https://crypto.jobs/
@@ -373,17 +381,52 @@ Lists of projects in the blockchain / web3 space
 [bountiesalert]:    https://bountiesalert.com
 
 
+## Grants
+
+| Grants
+| ---------
+| [consensys_grands]
+| [eth_found_grand]
+| [eth_found_gh]
+| [eth_com_grand]
+| [moz_fellow]
+| [shuttleworth]
+| [opentech]
+| [baylands]
+| [coinbase_os]
+| [coinbase_prot]
+
+[consensys_grands]: https://consensys.net/grants/
+[eth_found_grand]:  https://ecosystem.support/application.html
+[eth_found_gh]:     https://github.com/ethereum/ethereum-org/blob/master/subdomains/grants.md
+[eth_com_grand]:    https://ecf.network
+[moz_fellow]:       https://foundation.mozilla.org/fellowships/apply
+[shuttleworth]:     https://www.shuttleworthfoundation.org
+[opentech]:         https://groups.google.com/a/opentechfund.org/forum/#!forum/otf-announce/join
+[baylands]:         http://www.baylandsinc.com/2018/01/summer-2018-ethereum-infrastructure.html
+[coinbase_os]:      https://engineering.coinbase.com/introducing-coinbase-open-source-fund-116617a1f6ec
+[coinbase_prot]:    https://blog.coinbase.com/introducing-the-coinbase-protocol-team-3bc1e9a63614
+
+
+
 # Journals, Papers and academic conferences
 
-| Journals | Papers             | Conference
-| -----	   | ---------          | ------------
-| [jbba]   | [coinresearch]     | [ieeedapps]
-|          | [blockchainpapers] | [wikicfp]
+| Journals            | Papers             | Conference
+| -----	              | ---------          | ------------
+| [jbba]              | [coinresearch]     | [ieeedapps]
+| [frontiersin]       | [blockchainpapers] | [wikicfp]
+| [cryptoeconomicsys] | [bcpapers_cn]      |
+|                     | [cardano_papers]
 
-[jbba]: 			https://jbba.scholasticahq.com/ 
 
-[coinresearch]: 	https://www.coinresear.ch/papers/
+[jbba]:             https://jbba.scholasticahq.com/ 
+[frontiersin]:      https://www.frontiersin.org/journals/blockchain
+[cryptoeconomicsys]: https://dci.mit.edu/cryptoeconomic-systems-conference-series
+
+[coinresearch]:     https://www.coinresear.ch/papers/
 [blockchainpapers]: https://github.com/decrypto-org/blockchain-papers
+[bcpapers_cn]:       http://blockchainpaper.cn/views/
+[cardano_papers]: https://www.cardano.org/en/academic-papers/
 
 [ieeedapps]:        https://ieeedapps.net/
 [wikicfp]:          http://www.wikicfp.com/cfp/call?conference=blockchain
@@ -489,7 +532,7 @@ Lists of projects in the blockchain / web3 space
 
 
 
-# Eduction networks
+# Education networks
 
 | Education
 | --------------
@@ -499,4 +542,12 @@ Lists of projects in the blockchain / web3 space
 
 [blockchainedu]: https://blockchainedu.org
 [ben_nl]:        http://blockchainedu.nl/
+
+# Courses
+
+| Course
+| ---------
+| [nat_bc]
+
+[nat_bc]:   https://dutchblockchaincoalition.org/de-nationale-blockchain-cursus
 
