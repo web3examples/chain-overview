@@ -158,6 +158,23 @@ Lists of projects in the blockchain / web3 space
 [singapore]:    https://www2.imda.gov.sg/-/media/Imda/Images/Content/Programme/Singapore-Blockchain-Landscape-Map/20191014-Ecosystem-Map-V121-2mbpage0001/20191014-Ecosystem-Map-V1216mb.pdf
 [pan_african]:  https://medium.com/african-digital-asset-framework/a-map-to-the-pan-african-blockchain-ecosystem-open-sourced-6fabf3d8b66a
 
+
+
+
+# Start initiative / toolkit
+
+
+| Approach
+| ---------
+| [weforum-toolkit]
+
+
+
+[weforum-toolkit]: https://widgets.weforum.org/blockchain-toolkit/
+
+
+
+
 # Consortium / counsil / alliance / Initiative 
 
 | Healthcare                      | Insurance      | Bank / financial|  Trade        | Logistics   | Transport
